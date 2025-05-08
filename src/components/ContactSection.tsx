@@ -8,7 +8,7 @@ import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 const ContactSection: React.FC = () => {
   return (
-    <section id="contact" className="py-16 bg-gray-50">
+    <section id="contact" className="py-16 bg-green-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Contact Us</h2>

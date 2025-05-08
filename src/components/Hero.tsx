@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const Hero: React.FC = () => {
   return (
-    <section className="py-16 md:py-24 bg-gradient-to-r from-blue-50 to-blue-100">
+    <section className="py-16 md:py-24 bg-gradient-to-r from-green-50 to-green-100">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center gap-12">
         <div className="md:w-1/2 space-y-6">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 leading-tight">
